@@ -5,3 +5,12 @@
 - Criar um diagrama de entidade e relacionamento para as tabelas que você jugar necessárias
 - Criar classes usando annotations JPA
 - Registrar a linha de raciocínio na criação das tabelas no readme
+
+
+## Link do draw.io
+https://drive.google.com/file/d/1npKrfT7pFESsQjYV_WPApZmmcvNLIM7O/view?usp=sharing
+
+## Explicação
+
+- Um quarto pode ter apenas uma categoria, mas uma categoria apode ser vinculada a vários quartos
+- Uma reserva pode ter apenas um hospede e um quarto, mas um hospede e um quarto podem ter muitas reservas
